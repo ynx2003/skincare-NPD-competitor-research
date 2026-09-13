@@ -1,6 +1,6 @@
 # Skincare Competitor Research Skills
 
-一组用于护肤、美妆和个护竞品研究的 Codex Skills：
+一组用于护肤、美妆和个护NPD阶段竞品研究的 Codex Skills：
 
 - `skincare-competitor-research`：负责调研判断、竞品推荐、市场阶段判断、页面采集编排和证据化业务结论。
 - `skincare-competitor-analysis`：负责已有资料的字段抽取、质量检查、横向对比、词频统计和 Excel 导出。
