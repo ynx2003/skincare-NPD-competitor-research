@@ -24,7 +24,7 @@ python3 -m pip install -r skills/skincare-competitor-analysis/requirements.txt
 克隆仓库后，将两个 Skill 复制到个人 Skills 目录：
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ynx2003/skincare-NPD-competitor-research.git
 cd skincare-competitor-research
 mkdir -p ~/.agents/skills
 cp -R skills/skincare-competitor-research ~/.agents/skills/
